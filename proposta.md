@@ -1,12 +1,10 @@
 # Propostas de solução
 
-## Necessidade ou problema a ser resolvido
-
-
+## A dor
 
 ## Outras soluções
 
-
+## Inovação
 
 ## Benefícios
 
