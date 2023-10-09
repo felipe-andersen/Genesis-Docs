@@ -1,4 +1,4 @@
-# Propostas de solução
+# Propostas da solução
 
 ## A dor
 
