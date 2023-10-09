@@ -2,7 +2,7 @@
 
 # Genesis-Docs
 
-> Evite erros de ortografia, esteja alinhado com o projeto
+> Evite erros de ortografia
 
 
 ## Como contribuir com a documentação
